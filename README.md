@@ -1,16 +1,10 @@
-# wordpair_generator
+Built by Matthew Walczak on 1/3/2025 while following along
+Youtube video entitled "Flutter Crash Course" by Traversy Media.
+Link: https://youtu.be/1gDhl4leEzA?si=75Hr8HKB8uUqVMhQ
 
-A new Flutter project.
+This is my first experience using Flutter and the programming language Dart.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project provided me experience using:
+  -Widgets (ListView, ListTile, AppBar, and Scaffold)
+  -Dart Syntax
+  -Packages (english_words from pub.dev)
